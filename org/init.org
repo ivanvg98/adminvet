@@ -1,0 +1,22 @@
+#+TITLE: Proyecto para la administración de la Veterinaria "Pony"
+#+AUTHOR: Vladimir Azpeitia Hernández
+#+OPTIONS: toc:nil 
+* Planeacion
+** Recoleccion de documentos
+** Actvidades principales
+   1. Control de consultas
+      Hay un local en donde las consultas llegan de dos formas: una através del telefono de casa y otra es cuando los
+      clientes llegan personalmente.
+      
+      Otra manera de obtener consultas es en el viaje
+   2. Control de clientes(créditos)
+   3. Control de proveedores
+   4. Cartilla perros
+* Diseño
+** Diseño de la base de datos
+   *Posibles entidades:* \\
+   | Entidad      | Atributos | Observaciones |
+   |--------------+-----------+---------------|
+   | Clientes     |           |               |
+   | Veterinarios |           |               |
+   | Consultas    |           |            

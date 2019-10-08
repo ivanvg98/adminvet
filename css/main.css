@@ -1,0 +1,79 @@
+/*------------------ Barra de navegacion superior ------------------*/
+.navbar.navbar-inverse{
+	border-radius: 0;
+}
+
+.navbar.navbar-inverse .container-fluid .nav.navbar-nav li a{
+	color: #fff
+}
+
+.navbar.navbar-inverse .container-fluid .navbar-header .navbar-brand{
+	color: #fff;
+}
+
+.navbar.navbar-inverse .container-fluid .navbar-header .navbar-brand:hover{
+	color: #000;
+	background: #EEB000;
+}
+
+.navbar.navbar-inverse .container-fluid .navbar-header .navbar-brand.active{
+	color: #000;
+	background: #EEB000;
+}
+
+.navbar.navbar-inverse .container-fluid .nav.navbar-nav li a{
+	
+}
+
+.navbar.navbar-inverse .container-fluid .nav.navbar-nav li a:hover{
+	background-color:  #fff ;
+	color: #000;
+}
+
+.navbar.navbar-inverse .container-fluid .nav.navbar-nav li .active{
+	background-color:  #fff ;
+	color: #000;
+}
+
+.navbar.navbar-inverse .container-fluid .nav.navbar-nav li .active-inner{
+	color: #000;
+	background: #EEB000;
+}
+
+.navbar.navbar-inverse .container-fluid .dropdown .dropdown-menu{
+	background-color: #000;
+}
+
+.navbar.navbar-inverse .container-fluid .dropdown .img-circle{
+	width: 16px;
+	height: 16px;
+}
+
+/*------------------ Tabla de registros ------------------*/
+
+.table.table-striped{
+	margin-top: 10px;
+}
+
+.table.table-striped thead tr th{
+	background:  #000 ;
+	color: #FFFFFF;
+}
+
+/*------------------ Fomulario para eliminar ------------------*/
+input.form-control.info{
+	border: none;
+}
+
+/*------------------ Titulo de la pagina ------------------*/
+b.title-table{
+	font-size: 24px;
+}
+
+/*------------------ Modal ------------------*/
+.modal .modal-content{
+}
+
+#message-success, #message-danger, #message-info{
+	margin-top: 20px;
+} 
